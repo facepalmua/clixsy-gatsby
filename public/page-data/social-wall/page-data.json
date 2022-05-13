@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-wp-page-js",
-    "path": "/social-wall",
-    "result": {"data":{"allWpPage":{"edges":[{"node":{"title":"Social Wall","content":"\n<script src=\"https://brandassets.app/external/integration\" defer></script>\n<div class=\"wa-intcode-fc151eed6a67641198bd82a714eeb431\"></div>\n","featuredImage":null,"template":{"templateName":"Default"}}}]}},"pageContext":{"slug":"social-wall"}},
-    "staticQueryHashes": ["1052349954","2077856665","3649515864","848497233","918985940"]}

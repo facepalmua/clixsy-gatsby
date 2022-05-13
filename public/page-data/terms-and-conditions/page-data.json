@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-wp-page-js",
-    "path": "/terms-and-conditions",
-    "result": {"data":{"allWpPage":{"edges":[{"node":{"title":"Terms and Conditions","content":"\n<p>lorem</p>\n","featuredImage":null,"template":{"templateName":"Default"}}}]}},"pageContext":{"slug":"terms-and-conditions"}},
-    "staticQueryHashes": ["1052349954","2077856665","3649515864","848497233","918985940"]}

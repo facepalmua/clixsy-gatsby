@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-wp-page-js",
-    "path": "/media-room",
-    "result": {"data":{"allWpPage":{"edges":[{"node":{"title":"Media Room","content":"\n<script src=\"https://brandassets.app/external/integration\" defer></script>\n<div class=\"wa-intcode-a65a218bd80eceee4f799f7dfb7dc65c\"></div>\n\n\n\n<p></p>\n","featuredImage":null,"template":{"templateName":"Default"}}}]}},"pageContext":{"slug":"media-room"}},
-    "staticQueryHashes": ["1052349954","2077856665","3649515864","848497233","918985940"]}
