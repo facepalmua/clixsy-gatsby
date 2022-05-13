@@ -14,6 +14,15 @@ module.exports = {
    * If you need any more you can search here: https://www.gatsbyjs.com/plugins/
    */
   plugins: [
+    // include gatsby
+    `gatsby-plugin-postcss`,
+    {
+      resolve: "gatsby-background-image",
+      options: {
+        // add your own characters to escape, replacing the default ':/'
+        specialChars: "/:",
+      },
+    },
     {
       /**
        * First up is the WordPress source plugin that connects Gatsby
@@ -26,9 +35,7 @@ module.exports = {
       resolve: `gatsby-source-wordpress`,
       options: {
         // the only required plugin option for WordPress is the GraphQL url.
-        url:
-          process.env.WPGRAPHQL_URL ||
-          `https://wpgatsbydemo.wpengine.com/graphql`,
+        url: process.env.WPGRAPHQL_URL || `http://clixsy2.develop/graphql`,
       },
     },
 
