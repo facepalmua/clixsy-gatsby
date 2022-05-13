@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-wp-page-js",
-    "path": "/law-firm",
-    "result": {"data":{"allWpPage":{"edges":[{"node":{"title":"Law Firm","content":null,"featuredImage":null,"template":{"templateName":"Law Firm"}}}]}},"pageContext":{"slug":"law-firm"}},
-    "staticQueryHashes": ["1052349954","2077856665","3649515864","848497233","918985940"]}

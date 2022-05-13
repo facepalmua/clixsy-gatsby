@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-wp-page-js",
-    "path": "/contact-us",
-    "result": {"data":{"allWpPage":{"edges":[{"node":{"title":"Contact Us","content":null,"featuredImage":null,"template":{"templateName":"Contact Us"}}}]}},"pageContext":{"slug":"contact-us"}},
-    "staticQueryHashes": ["1052349954","2077856665","3649515864","848497233","918985940"]}
