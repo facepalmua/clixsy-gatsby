@@ -15,6 +15,7 @@ module.exports = {
    */
   plugins: [
     // include gatsby
+    `gatsby-plugin-netlify`,
     `gatsby-plugin-postcss`,
     {
       resolve: "gatsby-background-image",
