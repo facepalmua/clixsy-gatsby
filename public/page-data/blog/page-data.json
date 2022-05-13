@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-wp-page-js",
+    "path": "/blog",
+    "result": {"data":{"allWpPage":{"edges":[{"node":{"title":"Blog","content":null,"featuredImage":null,"template":{"templateName":"Blog"}}}]}},"pageContext":{"slug":"blog"}},
+    "staticQueryHashes": ["1052349954","2077856665","3649515864","848497233","918985940"]}

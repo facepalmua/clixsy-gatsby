@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-wp-page-js",
+    "path": "/smart-ads",
+    "result": {"data":{"allWpPage":{"edges":[{"node":{"title":"Smart ADS","content":null,"featuredImage":null,"template":{"templateName":"Smarter Ads"}}}]}},"pageContext":{"slug":"smart-ads"}},
+    "staticQueryHashes": ["1052349954","2077856665","3649515864","848497233","918985940"]}

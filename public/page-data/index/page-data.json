@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-jsx",
+    "path": "/",
+    "result": {"data":{"allWpPage":{"edges":[{"node":{"title":"Home","featuredImage":null}}]}},"pageContext":{}},
+    "staticQueryHashes": ["1052349954","3649515864","848497233","918985940"]}
